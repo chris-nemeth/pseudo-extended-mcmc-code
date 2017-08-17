@@ -6,7 +6,7 @@ The repository contains files, each corresponding to the following examples from
  * Mixture of univariate Gaussians
  * Mixture of 20 bivariate Gaussians 
  * Boltzmann machine relaxation
- * Complex targets, including the banana and flower distributions
+ * Complex targets, including the warped Gaussian (aka banana) and flower distributions
 
 For each of the folders there is a `.py` which runs the code. There also a `.stan` file which contains the STAN code for the model.
 
