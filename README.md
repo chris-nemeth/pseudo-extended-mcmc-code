@@ -1,6 +1,6 @@
 # Pseudo-extended Markov Chain Monte Carlo
 
-Thie repository contain the code related to the paper "Pseudo-extended Markov chain Monte Carlo" by Christopher Nemeth, Fredrik Lindsten, Maurizio Filippone and James Hensman
+Thie repository contain the code related to the paper [Pseudo-extended Markov chain Monte Carlo](https://arxiv.org/abs/1708.05239) by Christopher Nemeth, Fredrik Lindsten, Maurizio Filippone and James Hensman
 
 The repository contains files, each corresponding to the following examples from the paper:
  * Mixture of univariate Gaussians
